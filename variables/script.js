@@ -5,9 +5,10 @@
 
 //NOTE : EVERY VARIABLES HAVE TO BE UNIQUE, ELSE IT CAN LEAD TO PROBLEMS.
 
-let x;
-x = 100;
+//This is declaration and assigment seperatly
+// let x;
+//x = 100;
 
-console.log(x
-    
-)
+//This is declaration and assigment combined
+let x = 100
+console.log(x)
